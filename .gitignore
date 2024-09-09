@@ -70,7 +70,7 @@ docker/phpmyadmin/sessions/*
 .htpasswd
 
 node_modules
-dist
+assets/dist
 dist-mng
 
 filesystem_local.php
