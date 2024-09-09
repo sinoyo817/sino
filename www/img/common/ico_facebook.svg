@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_11" data-name="長方形 11" width="65" height="65" transform="translate(-0.259 0.275)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico_facebook" transform="translate(0.259 -0.275)">
+    <g id="グループ_10" data-name="グループ 10" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="パス_6" data-name="パス 6" d="M64.984,32.492a32.492,32.492,0,1,0-37.569,32.1V41.884h-8.25V32.492h8.25V25.334c0-8.143,4.851-12.641,12.273-12.641a49.966,49.966,0,0,1,7.273.635v8h-4.1c-4.036,0-5.3,2.5-5.3,5.074v6.1h9.011L45.14,41.884H37.569V64.589a32.5,32.5,0,0,0,27.415-32.1" transform="translate(-0.127 0.137)" fill="#1877f2"/>
+      <path id="パス_7" data-name="パス 7" d="M327.975,229.192l1.441-9.392H320.4v-6.1c0-2.57,1.259-5.074,5.295-5.074h4.1v-8a49.965,49.965,0,0,0-7.273-.635c-7.422,0-12.273,4.5-12.273,12.641V219.8H302v9.392h8.25V251.9a32.836,32.836,0,0,0,10.154,0V229.192Z" transform="translate(-282.962 -187.171)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
